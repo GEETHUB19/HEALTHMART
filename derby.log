@@ -25,3 +25,12 @@ os.arch=aarch64
 os.version=13.3
 derby.system.home=/Users/geet/NetBeansProjects/Minor_Project
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Nov 02 18:38:04 IST 2024: Shutting down Derby engine
+----------------------------------------------------------------
+Sat Nov 02 18:38:04 IST 2024:
+Shutting down instance a094c023-0192-ecb9-4356-00003d07a2ac on database directory /Users/geet/NetBeansProjects/Minor_Project/sample with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@531d72ca 
+----------------------------------------------------------------
+Sat Nov 02 18:38:04 IST 2024:
+Shutting down instance a816c00e-0192-ecb9-4356-00003d07a2ac on database directory /Users/geet/NetBeansProjects/Minor_Project/PharmaDb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@531d72ca 
+----------------------------------------------------------------
